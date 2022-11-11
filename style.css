@@ -1,0 +1,39 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Pacifico', cursive;
+    color: aqua;
+}
+
+.note {
+    font-size: 15px;
+    color: wheat;
+    font-family: 'Comic Neue', cursive;
+
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border:5px dotted yellow;
+    border-radius:20px;
+    box-shadow:5px 5px 5px blue;
+  
+
+    width: 50%;
+}
+
+body {
+    background-image: url("background.gif");
+    background-size: 50%;
+}
